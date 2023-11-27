@@ -1,0 +1,20 @@
+.principal{
+    color:#ffff;
+    background: linear-gradient(90deg, rgba(6,0,112,1) 0%, rgba(1,44,86,1) 42%, rgba(0,81,161,1) 82%);
+    height: 100px;
+}
+
+.secundario{
+    color:#000000; 
+    background: linear-gradient(90deg, rgba(198,140,13,1) 0%, rgba(248,179,28,1) 42%, rgba(242,185,60,1) 82%);
+    height: 80px;
+    width: 420px;
+    margin:0px auto;
+    padding-top: 30px;
+    font-size: 16px;
+}
+
+.img{
+    height: 100px;
+    width: 420px;
+}
